@@ -1,5 +1,5 @@
 # chat2md
-
+Download Chats as Markdown
 
 ## Install Extension in Chrome
 To load an unpacked extension in chrome extension follow these steps 
@@ -13,4 +13,4 @@ To load an unpacked extension in developer mode:
 
 3. Enable Developer Mode by clicking the toggle switch next to Developer mode.
 4. Click the Load unpacked button and select the extension directory.
-   ![Image]("https://github.com/pkavumba/chatGPT2md/blob/main/images/guide.png?raw=true")
+   ![image](https://raw.githubusercontent.com/pkavumba/chatGPT2md/3360dd898e22265414c9576bf60c757e5232ffc3/images/guide.png)
