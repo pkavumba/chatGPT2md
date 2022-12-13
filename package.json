@@ -1,0 +1,28 @@
+{
+  "name": "save-chatgpt",
+  "version": "0.0.1",
+  "description": "save chat gpt chats",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "build": "webpack"
+  },
+  "keywords": [
+    "chatgpt",
+    "markdown"
+  ],
+  "author": "pkavumba@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/lodash": "^4.14.191",
+    "jest": "^29.3.1",
+    "ts-loader": "^9.4.2",
+    "typescript": "^4.9.4",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "dependencies": {
+    "turndown": "^7.1.1"
+  }
+}
